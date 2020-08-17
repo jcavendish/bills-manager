@@ -1,0 +1,33 @@
+{
+  "months": [
+    {
+      "year": 2020,
+      "month": 8,
+      "id": 1
+    }
+  ],
+  "bills": [
+    {
+      "name": "Claro",
+      "date": "2020-08-17T15:12:30.170Z",
+      "expirationDay": "17 de agosto de 2020",
+      "status": "paid",
+      "id": 1
+    },
+    {
+      "name": "Vivo",
+      "date": "2020-08-17T15:12:37.000Z",
+      "expirationDay": "17 de agosto de 2020",
+      "status": "paid",
+      "id": 2
+    },
+    {
+      "name": "Test",
+      "date": "2020-08-19T15:19:48.000Z",
+      "expirationDay": "19 de agosto de 2020",
+      "status": "open",
+      "id": 3
+    },
+    []
+  ]
+}
